@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 README = open(os.path.join(here, 'README.md')).read()
 
 requires = [
-    'Twisted==12.3.0',
+    'Twisted==20.3.0',
     'thrift==0.9.0',
     'zope.interface==3.8.0',
     ]
